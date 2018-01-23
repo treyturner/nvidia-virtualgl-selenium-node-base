@@ -1,4 +1,4 @@
-FROM selenium/base:3.7.1-beryllium
+FROM selenium/base:3.8.1-erbium
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV DEBCONF_NONINTERACTIVE_SEEN true
